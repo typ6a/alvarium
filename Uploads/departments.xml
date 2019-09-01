@@ -1,0 +1,21 @@
+<?xml version='1.0' standalone='yes'?>
+<departments>
+	<department>
+ 		<title>PHP</title>
+	</department>
+	<department>
+ 		<title>Web Development</title>
+	</department>
+	<department>
+ 		<title>design</title>
+	</department>
+	<department>
+ 		<title>hr</title>
+	</department>
+	<department>
+ 		<title>booking</title>
+	</department>
+	<department>
+ 		<title>frontend</title>
+	</department>
+</departments>

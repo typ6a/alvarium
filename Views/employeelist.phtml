@@ -1,0 +1,15 @@
+<table>
+	<?php foreach ($employees as $employee): ?>
+	<tr>
+		<td><?php echo $employee['firstname']; ?></td>
+		<td><?php echo $employee['lastname'] ?></td>
+	</tr>
+	<?php endforeach ?>
+	<P>show by 
+		<a href="<?php echo 'http://' . $_SERVER['HTTP_HOST'] . explode('?', $_SERVER['REQUEST_URI'], 2)[0] ?>?limit=20" title="20">20  </a> 
+		<a href="<?php echo 'http://' . $_SERVER['HTTP_HOST'] . explode('?', $_SERVER['REQUEST_URI'], 2)[0] ?>?limit=40" title="40">40  </a> 
+		<a href="<?php echo 'http://' . $_SERVER['HTTP_HOST'] . explode('?', $_SERVER['REQUEST_URI'], 2)[0] ?>?limit=50" title="50">50  </a> 
+		<a href="<?php echo 'http://' . $_SERVER['HTTP_HOST'] . explode('?', $_SERVER['REQUEST_URI'], 2)[0] ?>?limit=100" title="100">100</a> 
+	</P>
+</table>
+

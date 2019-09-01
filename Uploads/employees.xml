@@ -1,0 +1,643 @@
+<?xml version='1.0' standalone='yes'?>
+<employees>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+	<employee>
+ 		<firstname>Tom</firstname>
+ 		<lastname>Cruise</lastname>
+ 		<fathername>Johnovich</fathername>
+ 		<birthday>28.10.1980</birthday>
+ 		<position>programmer</position>
+ 		<department>php</department>
+ 		<type>hourly</type>
+ 		<rate>10.1</rate>
+ 		<hours>12</hours>
+	</employee>
+	<employee>
+ 		<firstname>Silvester</firstname>
+ 		<lastname>stallone</lastname>
+ 		<fathername></fathername>
+ 		<birthday>15.01.1970</birthday>
+ 		<position>junior web developer</position>
+ 		<department>web development</department>
+ 		<type>monthly</type>
+ 		<rate>1000</rate>
+	</employee>
+	<employee>
+ 		<firstname>John</firstname>
+ 		<lastname>Rambo</lastname>
+ 		<fathername>Ivanovich</fathername>
+ 		<birthday>3 june 1969</birthday>
+ 		<position>senior html developer</position>
+ 		<department>web development</department>
+ 		<type>hourly</type>
+ 		<rate>20</rate>
+ 		<hours>8</hours>
+	</employee>
+</employees>
